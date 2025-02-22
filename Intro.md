@@ -1,27 +1,34 @@
 # Introduction
 
-Poland is an excellent destination for hiking enthusiasts, offering diverse landscapes, well-maintained trails, and a rich cultural experience. Whether you are looking for challenging mountain hikes, scenic forest paths, or breathtaking rock formations, Poland has something for everyone.
+Poland is a great place for hiking. It has many landscapes, well-marked trails, and a rich culture. You can find high mountains, peaceful forests, and unique rock formations.
+
+[image of Polish mountains; stock]
 
 ### Why Hike in Poland?
-Poland boasts a variety of hiking terrains, from the high peaks of the **Tatra Mountains** to the gentle hills of the **Bieszczady** and the unique rock formations of **Jura Krakowsko-Częstochowska**. The country’s national parks and nature reserves provide stunning views, diverse wildlife, and a chance to explore unspoiled natural beauty.
+Poland has many mountain areas. Some of the best are:
+- **Tatra Mountains** – High peaks and stunning views. [link to wiki]
+- **Bieszczady** – Wild and quiet hills. [link to wiki]
+- **Karkonosze** – Beautiful trails and waterfalls. [link to wiki]
 
-Poland has many mountain ranges to offer, including all the mountain ranges in the **Sudetes**, all the **Beskid Mountains**, and more. However, in this guide, we will focus on the most popular ones: **Tatra Mountains**, **Bieszczady**, and **Karkonosze**.
+[image - map of Poland with mountain ranges]
 
-Some key reasons to choose Poland for your hiking adventure:
-- **Diverse landscapes** – Mountains, forests, lakes, and coastal trails.
-- **Well-marked trails** – Poland has a well-organized system of hiking trails, making navigation easy.
-- **Affordable travel** – Compared to many Western European hiking destinations, Poland is budget-friendly.
-- **Rich cultural experience** – Combine hiking with visits to historical sites, traditional villages, and local cuisine.
+Reasons to hike in Poland:
+- **Varied landscapes** – Mountains, forests, lakes, and coastal trails.
+- **Good trails** – Well-marked paths make hiking easy. See [link to PTTK]
+- **Budget-friendly** – Cheaper than many European hiking spots.
+- **Cultural experience** – Visit old towns, meet locals, and try Polish food.
 
 ### Who Is This Guide For?
-This guide is designed for international travelers who are planning a hiking trip in Poland. Whether you are an experienced trekker or a beginner looking for an enjoyable day hike, this guide will provide all the necessary information to help you organize your trip effectively.
+This guide is for travelers who want to hike in Poland. It helps both beginners and experienced hikers plan their trip.
 
 ### What You Will Learn
-In this guide, you will find:
-- The **best hiking destinations** in Poland.
-- Information on **when to go** and how to prepare.
-- Essential **safety guidelines** and hiking regulations.
-- Tips on **accommodation, transportation, and budgeting**.
-- Useful **Polish phrases** to help you communicate on the trail.
+This guide includes:
+- The **best hiking places** in Poland.
+- **Best time to go** and how to prepare.
+- Important **safety tips** and rules.
+- Advice on **where to stay and how to travel**.
+- **Polish phrases** for hikers.
 
-Let’s get started and explore the beautiful hiking opportunities Poland has to offer!
+Let’s start exploring Poland’s amazing hiking trails!
+
+[image: people on the trail]
