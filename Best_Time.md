@@ -1,36 +1,41 @@
 # ☀️ Best Time to Hike in Poland
 
-Choosing the right season is key for a great hiking experience. Poland has four distinct seasons, each offering different challenges and beauty.
+## 📅 Season Overview
+
+| Season  | Temperature  | Ideal For             | Required Gear                          | Key Risks                |
+|---------|-------------|----------------------|---------------------------------|-------------------------|
+| 🌸 Spring (Mar-May) | 5-15°C        | Lower trails          | Waterproof gear, layers       | Mud, late snow           |
+| ☀️ Summer (Jun-Aug) | 15-25°C       | All trails            | Sun protection, extra water  | Thunderstorms            |
+| 🍂 Autumn (Sep-Nov) | 5-15°C        | Mid-altitude trails   | Warm layers, headlamp       | Early darkness           |
+| ❄️ Winter (Dec-Feb) | -15-0°C       | Expert routes         | Winter equipment, avalanche gear | Avalanches            |
 
 ## 🌸 Spring (March - May)
-- **Pros**: Blooming nature, fewer tourists, mild temperatures 🌷
-- **Cons**: Unpredictable weather, some trails may still have snow 🌧️❄️
-- **Best for**: Lower-altitude trails in **Karkonosze** and **Bieszczady**
+- **Weather**: Variable, 5-15°C, occasional snow above 1000m
+- **Best Locations**: Karkonosze valleys, Bieszczady lower trails
+- **Equipment**: Waterproof boots, rain gear, trekking poles
+- **Trail Status**: Some high-altitude routes closed until May
 
 ## ☀️ Summer (June - August)
-- **Pros**: Long daylight, warm weather, best time for **Tatra Mountains** 🏕️
-- **Cons**: Crowded trails, occasional thunderstorms ⚡
-- **Best for**: **High-altitude hikes**, including **Rysy Summit**
+- **Weather**: Stable, 15-25°C, afternoon thunderstorms common
+- **Best Locations**: All regions, ideal for Tatra high peaks
+- **Equipment**: Sun protection, 2L water minimum, storm gear
+- **Daylight**: 16h average, trails open 6:00-20:00
 
 ## 🍂 Autumn (September - November)
-- **Pros**: Beautiful colors, fewer tourists, stable weather 🍁
-- **Cons**: Shorter days, cooler temperatures 🌥️
-- **Best for**: **Bieszczady** and **Karkonosze** during golden autumn
+- **Weather**: Stable, 5-15°C, morning fog common
+- **Best Locations**: Bieszczady, Karkonosze scenic routes
+- **Equipment**: Warm layers, headlamp, navigation tools
+- **Note**: Early snow possible above 1500m after October
 
 ## ❄️ Winter (December - February)
-- **Pros**: Stunning snowy landscapes, quiet trails, skiing opportunities ⛄🏔️
-- **Cons**: Harsh weather, avalanche risk, requires experience ❄️⚠️
-- **Best for**: **Experienced hikers** in the **Tatras**
+- **Weather**: Harsh, -15-0°C, snow above 800m
+- **Best Locations**: Tatra winter routes, marked trails only
+- **Equipment**: Full winter gear, avalanche safety kit
+- **Warning**: Advanced experience required, many trails closed
 
-## 📅 Summary Table
+## ⚠️ Safety Information
+- **Mountain Rescue**: GOPR/TOPR - 985 or +48 601 100 300
+- **Check Weather**: [pogodawgorach.pl](https://www.pogodawgorach.pl)
+- **Trail Status**: [monitoring.tpn.pl](https://monitoring.tpn.pl)
 
-| Season | Pros | Cons | Best For |
-|--------|------|------|----------|
-| 🌸 Spring | Fewer tourists, blooming nature | Unpredictable weather | Low-altitude hikes |
-| ☀️ Summer | Long days, great for high peaks | Crowded, thunderstorms | Tatras & adventure hikes |
-| 🍂 Autumn | Stunning colors, good weather | Shorter days, cool | Bieszczady & scenic trails |
-| ❄️ Winter | Beautiful snow, quiet | Harsh conditions, risks | Experienced winter hikers |
-
-📝 **Tip**: Always check the weather forecast and trail conditions before setting out. Some trails may require special gear in winter.
-
-Ready to choose the best season for your hike? Let’s keep planning! 🥾🌍
+📝 Always check the weather forecast and trail conditions before your hike. Safety first! 🥾🏔️
