@@ -2,13 +2,11 @@
 
 *A Guide for Foreign Travelers*
 
-## **Table of Contents**
-
+## **Table of Contents** <!-- omit in toc -->
 - [How to Organize a Hiking Trip in Poland](#how-to-organize-a-hiking-trip-in-poland)
-  - [**Table of Contents**](#table-of-contents)
   - [**1. Introduction**](#1-introduction)
   - [**2. Top Hiking Destinations**](#2-top-hiking-destinations)
-  - [**3. Best Time to Hike**](#3-best-time-to-hike)
+  - [**3. Best Times to Hike**](#3-best-times-to-hike)
   - [**4. Essential Preparation**](#4-essential-preparation)
   - [**5. Safety \& Regulations**](#5-safety--regulations)
   - [**6. Accommodation \& Transport**](#6-accommodation--transport)
@@ -20,12 +18,12 @@
 ---
 
 ## **1. Introduction**
-Overview of Poland as a hiking destination and what this guide covers.
+Overview of Poland as a hiking destination and the information this guide covers.
 
 ## **2. Top Hiking Destinations**
-Focus on the most popular regions: **Tatras, Bieszczady, Karkonosze**.
+Focus on the most popular regions: **Tatras**, **Bieszczady**, **Karkonosze**.
 
-## **3. Best Time to Hike**
+## **3. Best Times to Hike**
 Recommendations based on seasons and weather conditions.
 
 ## **4. Essential Preparation**

@@ -18,7 +18,7 @@
 ## ☀️ Summer (June - August)
 - **Weather**: Stable, 15-25°C, afternoon thunderstorms common
 - **Best Locations**: All regions, ideal for Tatra high peaks
-- **Equipment**: Sun protection, 2L water minimum, storm gear
+- **Equipment**: Sun protection, minimum 2l water supply, storm gear
 - **Daylight**: 16h average, trails open 6:00-20:00
 
 ## 🍂 Autumn (September - November)
