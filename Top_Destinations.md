@@ -43,7 +43,7 @@ Also known as Beščady (Slovak) and Бещади (Ukrainian)
   - Rysy Summit (8h, difficult)
 - **Season**: June-September
 - **Access**: By train, bus or car to Zakopane
-- **Infrastructure**: Well-developed, numerous mountain hshelters, marked trails
+- **Infrastructure**: Well-developed, numerous mountain shelters, marked trails
 
 ## 🔍 Comparison
 
